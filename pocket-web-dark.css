@@ -28,7 +28,7 @@ a.queue_togglesection_optionselected {
   /* selectedheader text*/
 }
 a.title {
-  color: #90A4AE !important;
+  color: #42a5f5 !important;
   /* articletitle */
 }
 a.section-archive, a.section-favorites, a.section-mylist, a.nav-sublist, a.filter-tags {
@@ -52,7 +52,7 @@ a.topic_detail, a.topic_detail:visited {
   color: #dcdccc !important;
 }
 a:visited {
-  color: #424242 !important;
+  color: #90A4AE !important; /* visited / readed links */
 }
 div.popover-new {
   background-color: #212121 !important;
@@ -81,5 +81,9 @@ span.nav-username {
 .token-input-list li input {
   background: #616161;
 }
-
+a.topic_detail
+{
+  background-color: #757575;
+  color: #212121 !important;
+}
 }
