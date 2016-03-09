@@ -15,12 +15,12 @@ A dark theme for pocket.
 * Article Themes not working (sephia etc)
 * more? - Contact me.
 
-## Changelog
-#09.03.2016
+# Changelog
+##09.03.2016
 * Fixed inboxtext readability
 * themed recommended section
 * Changed color of new topics
 * Changed color of read topics
 * Changed badge for recommended articles etc
-# 08.03.2016
+##08.03.2016
 * general theming
