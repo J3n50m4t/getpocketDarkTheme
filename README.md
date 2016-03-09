@@ -22,5 +22,6 @@ A dark theme for pocket.
 * Changed color of new topics
 * Changed color of read topics
 * Changed badge for recommended articles etc
+
 ##08.03.2016
 * general theming
