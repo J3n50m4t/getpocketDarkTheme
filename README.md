@@ -11,6 +11,6 @@ A dark theme for pocket.
 ![](http://i.imgur.com/Afyi1Md.png)
 
 ##Known Bugs
-* recommended not themed
 * didnt replace images now, so some black & grey
-* more?
+* Article Themes not working (sephia etc)
+* more? - Contact me.
