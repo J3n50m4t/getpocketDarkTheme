@@ -16,6 +16,9 @@ h1 {
 h1, h2, h3, h4, h5, h6, h7 {
   color: #E0E0E0 !important;
 }
+p{
+  color: #eeeeee !important;
+}
 .reader_content, .excerpt {
   color: #dcdccc !important;
 }
@@ -85,5 +88,13 @@ a.topic_detail
 {
   background-color: #757575;
   color: #212121 !important;
+}
+.item_content_actions, .item_content_text
+{
+  background-color: #212121 !important;
+}
+.item_content_actionscontainer
+{
+    border-top: 1px solid #757575;
 }
 }
