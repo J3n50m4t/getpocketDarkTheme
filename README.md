@@ -8,14 +8,19 @@ A dark theme for pocket.
   or manually copy and paste the CSS into Stylish.
 
 ## Preview
-![](http://i.imgur.com/Afyi1Md.png)
+![](http://i.imgur.com/FC826P7.jpg)
 
 ## Known Bugs
-* didnt replace images now, so some black & grey
-* Article Themes not working (sephia etc)
 * more? - Contact me.
 
 # Changelog
+
+##06.08.2017
+* all new colors - Never liked the old one. Now bit more material colors
+* recolored background
+*  hover colors
+* fixed tags
+
 ##09.03.2016
 * Fixed inboxtext readability
 * themed recommended section
